@@ -2,24 +2,30 @@
 
 **Data Analytics Lead | Data Engineering | Business Intelligence | Python & SQL**
 
-I build data pipelines, analytics solutions, and reporting that help teams turn complex business data into practical decisions. My experience spans data integration, dimensional modeling, KPI development, and executive-level business intelligence.
+I build data pipelines, reporting solutions, and analytics workflows that turn business data into decisions. My work spans Microsoft Fabric, data integration, dimensional modeling, KPI design, and executive reporting.
 
-### What I work with
+### Core technologies
 
-- **Data platforms:** Microsoft Fabric (Lakehouse, Data Factory, Dataflows, Notebooks), Databricks, PySpark
-- **Business intelligence:** Power BI, DAX, Tableau, Domo, TIBCO Spotfire
-- **Data engineering & automation:** Python, SQL, pandas, ETL/ELT, Git, Azure DevOps
-- **Business domains:** CRM and ERP data, sales performance, operations, retention, and KPI reporting
-
-### Selected projects
-
-| Project | Focus |
+| Area | Tools and experience |
 | --- | --- |
-| [Interpol Red Notices](https://github.com/tariksalay/interpol_rednotices) | Python data ingestion, RabbitMQ messaging, PostgreSQL, Flask, and Docker |
-| [Audio Classification Prototype](https://github.com/tariksalay/deep-learning-audio-specification-app) | Pretrained VGG19 feature extraction, linear SVM classification, and Flask |
+| **Data engineering** | Microsoft Fabric (Lakehouse, Data Factory, Dataflows, Notebooks), Databricks, PySpark, SQL, Python |
+| **Business intelligence** | Power BI, DAX, Tableau, Domo, TIBCO Spotfire |
+| **Data & delivery** | pandas, dimensional modeling, ETL/ELT, Git, Azure DevOps |
+| **Business analytics** | CRM/ERP integrations, sales and operational reporting, retention analysis, KPI definitions |
 
-These repositories include technical projects and experiments built at different stages of my career. Most of my recent professional analytics and data platform work is not publicly available, so the code here is a selection of my interests and earlier hands-on projects.
+### Selected public projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Interpol Red Notices Pipeline](https://github.com/tariksalay/interpol_rednotices) | Python data ingestion, RabbitMQ messaging, PostgreSQL, Flask, Docker |
+| [Online Banking Web Application (Team Project)](https://github.com/tariksalay/commerce-bank-online-banking-dotnet) | ASP.NET Core MVC, SQL database design, requirements and testing documentation |
+| [US Economic Indicators Notebooks](https://github.com/tariksalay/IBM-Watson-Studio) | pandas, Bokeh, data exploration and visualization |
+| [Audio Classification Prototype](https://github.com/tariksalay/deep-learning-audio-specification-app) | Pretrained VGG19 features, linear SVM, Flask |
+| [Deep Learning with Python](https://github.com/tariksalay/deep-learning-with-python) | Keras, NLP, clustering, and ML coursework experiments |
+| [Connect Four Minimax Game](https://github.com/tariksalay/connect-four-ml-python) | Python, Pygame, depth-limited minimax, heuristic search |
+
+These public repositories include historical university projects and prototypes. My more recent production work with Microsoft Fabric, enterprise analytics, and Power BI is primarily within private business environments. I keep that work separate from publicly shareable portfolio code.
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/tariksalay/) · [Portfolio](https://tariksalay.github.io/)
+[LinkedIn](https://www.linkedin.com/in/tariksalay/) · [Portfolio website](https://tariksalay.github.io/)
