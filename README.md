@@ -18,7 +18,7 @@ I build data pipelines, reporting solutions, and analytics workflows that turn b
 | Project | What it demonstrates |
 | --- | --- |
 | [Interpol Red Notices Pipeline](https://github.com/tariksalay/interpol_rednotices) | Python data ingestion, RabbitMQ messaging, PostgreSQL, Flask, Docker |
-| [Online Banking Web Application (Team Project)](https://github.com/tariksalay/commerce-bank-online-banking-dotnet) | ASP.NET Core MVC, SQL database design, requirements and testing documentation |
+| [Eight Puzzle Solver](https://github.com/tariksalay/eight-puzzle-ml-cpp) | C++, heuristic state-space search, Manhattan distance, and priority queue |
 | [US Economic Indicators Notebooks](https://github.com/tariksalay/IBM-Watson-Studio) | pandas, Bokeh, data exploration and visualization |
 | [Audio Classification Prototype](https://github.com/tariksalay/deep-learning-audio-specification-app) | Pretrained VGG19 features, linear SVM, Flask |
 | [Deep Learning with Python](https://github.com/tariksalay/deep-learning-with-python) | Keras, NLP, clustering, and ML coursework experiments |
