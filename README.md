@@ -1,4 +1,4 @@
-# Hi, I'm Tarik 👋
+# Hi,
 
 **Data Analytics Lead | Data Engineering | Business Intelligence | Python & SQL**
 
